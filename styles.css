@@ -1,0 +1,23 @@
+
+body {
+ background-color: #ffebcd;
+}
+hr {
+  background: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 2.6px;
+  height: 0px;
+  width: 7%;
+}
+
+h1{
+  color: DimGrey;
+}
+h3{
+  color: DeepPink;
+}
+  img {
+    height: 230px;
+  }
